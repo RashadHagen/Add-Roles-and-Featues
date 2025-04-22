@@ -30,7 +30,7 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;"> 
 <h2>
- ⏹️ Program walk-through:</h2>
+ ⏹️ Project Walk-Through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
