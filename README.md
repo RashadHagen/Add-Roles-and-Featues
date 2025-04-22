@@ -2,10 +2,10 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
-  ⏹️ Description
-</h2>
+  ⏹️ Description</h2>
+
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-<b>Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
 </b>
 
 
@@ -17,6 +17,8 @@
  
  - <b>Active Directory</b>
 
+
+
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;"> 
  ⏹️ Environments Used </h2>
 
@@ -24,7 +26,11 @@
  
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+
+
+<h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;"> 
+<h2>
+ ⏹️ Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
