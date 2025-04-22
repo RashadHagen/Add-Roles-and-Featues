@@ -5,7 +5,7 @@
   ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project will go over how to add/install Roles and Features in Microsoft Server Manager. Roles and Features allows you to manage the functionalities of a server, including: installing, removing, and viewing details about roles and features. This functionality lets you configure a server for specific tasks and adapt its capabilities based on your needs.
 </b>
 
 
