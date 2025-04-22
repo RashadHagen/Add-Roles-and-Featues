@@ -1,18 +1,28 @@
 <h1>Install AD DS (Active Directory Domain Services)</h1>
 
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+<h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
+  ⏹️ Description
+</h2>
+<p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
+<b>Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+</b>
 
 
-<h2>Utilities Used</h2>
 
-- <b>Active Directory</b> 
+<h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
+  ⏹️ Utilities Used</h2>
+  
+<p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
+ 
+ - <b>Active Directory</b>
 
-<h2>Environments Used </h2>
+<h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;"> 
+ ⏹️ Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+<p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
+ 
+- <b>Windows 10</b>
 
 <h2>Program walk-through:</h2>
 
