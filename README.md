@@ -33,16 +33,17 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
  ⏹️ Project Walk-Through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Open Server Manager in Windows Server</b>:  <br/>
+<img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Click: Tools (top-right)  OR  Click: 2 Add roles and features (top-middle of screen)</b>:  <br/>
+<img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Click: Role-based or feature-based installation. Click: Next</b>: <br/>
+<img src="https://imgur.com/DzKElLY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
