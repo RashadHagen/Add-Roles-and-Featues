@@ -48,12 +48,12 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Role-based or feature-based installation. Click: Next</b></span>: 
-  <br/>
+  <br/><br/>
   <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Select a server from the server pool. Select: the server you want to install onto. Click: Next</b></span>: 
-  <br/>
+  <br/><br/>
   <img src="https://imgur.com/meXzXcs.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
@@ -79,11 +79,12 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
   <br /><br /><br /><br />
 
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next</b></span>: 
-  <br/>
+  <br/><br/>
   <img src="https://imgur.com/eLy0pKN.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Install</b></span>:  <br/>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Install</b></span>:  
+  <br/>
   <img src="https://imgur.com/vmzKdBz.png" height="80%" width="80%"/>
 
 </div>
