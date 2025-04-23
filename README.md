@@ -32,48 +32,58 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;"> 
 <h2>
  ⏹️ Project Walk-Through:</h2>
+ <br/>
 
-<p align="center">
-<b>Open Server Manager in Windows Server</b>:  <br/>
-<img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Tools (top-right)  OR  Click: 2 Add roles and features (top-middle of screen)</b>:  <br/>
-<img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Role-based or feature-based installation. Click: Next</b>: <br/>
-<img src="https://imgur.com/DzKElLY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Select a server from the server pool. Select: the server you want to install onto. Click: Next</b>:  <br/>
-<img src="https://imgur.com/meXzXcs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Select: If you want to install a role, select it/them. Click: Next:   /   If you select a role(s). Click: Add Feature</b>:  <br/>
-<img src="https://imgur.com/jylW9Fh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/Rn3BNdg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Select: If you want to install a feature, select it/them. Click: Next</b>:  <br/>
-<img src="https://imgur.com/j5Z4v4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Next</b>:  <br/>
-<img src="https://imgur.com/LUpD81k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Any Role Services you want to install. Click: Next</b>:  <br/>
-<img src="https://imgur.com/KoicDAB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Next</b>: <br/>
-<img src="https://imgur.com/eLy0pKN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<b>Click: Install</b>:  <br/>
-<img src="https://imgur.com/vmzKdBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<div style="text-align:center;">
 
-<!--
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open Server Manager in Windows Server</b></span>:  
+  <br/>
+  <img src="https://imgur.com/oe2qKP5.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Tools (top-right)  OR  Click: 2 Add roles and features (top-middle of screen)</b></span>:  
+  <br/>
+  <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Role-based or feature-based installation. Click: Next</b></span>: 
+  <br/>
+  <img src="https://imgur.com/DzKElLY.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Select a server from the server pool. Select: the server you want to install onto. Click: Next</b></span>: 
+  <br/>
+  <img src="https://imgur.com/meXzXcs.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: If you want to install a role, select it/them. Click: Next:   /   If you select a role(s). Click: Add Feature</b></span>:  
+  <br/>
+  <img src="https://imgur.com/jylW9Fh.png" height="80%" width="80%"/>
+  <img src="https://imgur.com/Rn3BNdg.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: If you want to install a feature, select it/them. Click: Next</b></span>:  
+  <br/>
+  <img src="https://imgur.com/j5Z4v4w.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next</b></span>:  
+  <br/>
+  <img src="https://imgur.com/LUpD81k.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Any Role Services you want to install. Click: Next</b></span>:  
+  <br/>
+  <img src="https://imgur.com/KoicDAB.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next</b></span>: 
+  <br/>
+  <img src="https://imgur.com/eLy0pKN.png" height="80%" width="80%"/>
+  <br /><br /><br /><br />
+
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Install</b></span>:  <br/>
+  <img src="https://imgur.com/vmzKdBz.png" height="80%" width="80%"/>
+
+</div>
