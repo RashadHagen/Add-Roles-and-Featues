@@ -43,6 +43,7 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Tools (top-right)  OR  Click: 2 Add roles and features (top-middle of screen)</b></span>:  
   <br/>
   <img src="https://imgur.com/UvEKQRZ.png" height="80%" width="80%"/>
+   <br /> <br /> <br /> <br />
   <img src="https://imgur.com/2aRMXAj.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
@@ -59,6 +60,7 @@ This project will go over how to add/install Roles and Features in Microsoft Ser
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: If you want to install a role, select it/them. Click: Next:   /   If you select a role(s). Click: Add Feature</b></span>:  
   <br/>
   <img src="https://imgur.com/jylW9Fh.png" height="80%" width="80%"/>
+   <br /> <br /> <br /> <br />
   <img src="https://imgur.com/Rn3BNdg.png" height="80%" width="80%"/>
   <br /><br /><br /><br />
 
